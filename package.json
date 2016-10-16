@@ -1,0 +1,10 @@
+{
+  "name": "webpack-build-project",
+  "version": "0.0.0",
+  "scripts": {
+    "webpack": "webpack --display-modules --display-reasons --display-origins --display-chunks --display-error-details"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
